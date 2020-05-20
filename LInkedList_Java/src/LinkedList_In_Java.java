@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class LinkedList_In_Java {
+	
+	int branch1entry;
+	
 	static Node head;
 	static Node pre;
 
